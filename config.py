@@ -62,4 +62,4 @@
 
 
 
-token = "769808752:AAFQpvFANXhTETJVubbkWzepEejAYiOfvFU"
+token = "your token"
